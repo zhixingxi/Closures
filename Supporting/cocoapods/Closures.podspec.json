@@ -4,8 +4,8 @@
   "summary": "Swifty closures for UIKit and Foundation",
   "homepage": "https://github.com/zhixingxi/Closures",
   "screenshots": [
-    "https://raw.githubusercontent.com/vhesener/Closures/assets/assets/playground_general.gif",
-    "https://raw.githubusercontent.com/vhesener/Closures/assets/assets/reference_large.png"
+    "https://raw.githubusercontent.com/zhixingxi/Closures/assets/assets/playground_general.gif",
+    "https://raw.githubusercontent.com/zhixingxi/Closures/assets/assets/reference_large.png"
   ],
   "license": "MIT",
   "authors": "Vinnie Hesener",
